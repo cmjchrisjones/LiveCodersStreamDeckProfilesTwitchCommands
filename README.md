@@ -28,6 +28,8 @@ Firstly, start by cloning this repo.
 
 Then, to use, simply open up your StreamDeck application, click the cog in the top right corner to open the *Preferences dialog*, select the bottom drop down arrow and import the profile you want
 
+Then you just need to ensure that your cursor is in either your web browser chatbox, or similar (e.g. Chatty) to use the hot keys.
+
 ### Contributing
 
 #### Requirements
